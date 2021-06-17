@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Brais Oliveira Sanjurjo -- Web Developer -- braisoliveira@protonmail.com
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JS, PHP v8.0.2
+    XAMPP, jQuery, Modernizr, Normalize.css, ResponsivelyApp, GitHub Desktop
